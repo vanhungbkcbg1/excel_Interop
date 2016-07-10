@@ -16,3 +16,13 @@ C:\Users\hungnv\documents\visual studio 2010\Projects\WindowsApplication1\Window
 C:\Users\hungnv\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
 C:\Users\hungnv\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
 C:\Users\hungnv\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\projects\VB.net\excel_Interop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\projects\VB.net\excel_Interop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\projects\VB.net\excel_Interop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\projects\VB.net\excel_Interop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\projects\VB.net\excel_Interop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\projects\VB.net\excel_Interop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\projects\VB.net\excel_Interop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\projects\VB.net\excel_Interop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\projects\VB.net\excel_Interop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\projects\VB.net\excel_Interop\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
