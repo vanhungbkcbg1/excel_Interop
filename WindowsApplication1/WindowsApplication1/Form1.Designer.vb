@@ -28,6 +28,8 @@ Partial Class Form1
         Me.btn_copyRange = New System.Windows.Forms.Button()
         Me.Button4 = New System.Windows.Forms.Button()
         Me.Button5 = New System.Windows.Forms.Button()
+        Me.Button6 = New System.Windows.Forms.Button()
+        Me.Button7 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Button1
@@ -84,11 +86,31 @@ Partial Class Form1
         Me.Button5.Text = "page break"
         Me.Button5.UseVisualStyleBackColor = True
         '
+        'Button6
+        '
+        Me.Button6.Location = New System.Drawing.Point(37, 226)
+        Me.Button6.Name = "Button6"
+        Me.Button6.Size = New System.Drawing.Size(198, 40)
+        Me.Button6.TabIndex = 6
+        Me.Button6.Text = "Open xml"
+        Me.Button6.UseVisualStyleBackColor = True
+        '
+        'Button7
+        '
+        Me.Button7.Location = New System.Drawing.Point(241, 226)
+        Me.Button7.Name = "Button7"
+        Me.Button7.Size = New System.Drawing.Size(198, 40)
+        Me.Button7.TabIndex = 7
+        Me.Button7.Text = "Convert PDF"
+        Me.Button7.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(494, 278)
+        Me.Controls.Add(Me.Button7)
+        Me.Controls.Add(Me.Button6)
         Me.Controls.Add(Me.Button5)
         Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.btn_copyRange)
@@ -106,5 +128,7 @@ Partial Class Form1
     Friend WithEvents btn_copyRange As System.Windows.Forms.Button
     Friend WithEvents Button4 As System.Windows.Forms.Button
     Friend WithEvents Button5 As System.Windows.Forms.Button
+    Friend WithEvents Button6 As System.Windows.Forms.Button
+    Friend WithEvents Button7 As System.Windows.Forms.Button
 
 End Class
